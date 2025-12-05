@@ -1,5 +1,7 @@
 # Walmart Sales Forecasting & Customer Segmentation
 
+This project performs time series forecasting & customer segmentation based on real-world Walmart sales data.
+
 This repository contains my capstone project focused on:
 - Forecasting Walmart weekly sales using ARIMA
 - Understanding customer segmentation using RFM analysis
